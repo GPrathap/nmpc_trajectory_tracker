@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/geesara/catkin_workspace/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/geesara/catkin_workspace/src/LearningMPC/include/**",
+        "/home/geesara/catkin_workspace/src/Hagen-Planner/DecompROS/decomp_rviz_plugins/include/**",
+        "/home/geesara/catkin_workspace/src/acl-mapping/fla_utils/include/**",
+        "/home/geesara/catkin_workspace/src/rl_try/hector_uav_msgs/include/**",
+        "/home/geesara/catkin_workspace/src/Hagen-Planner/hagen_planner/map_building/include/**",
+        "/home/geesara/catkin_workspace/src/Hagen-Planner/hagen_planner/mpc_opt/include/**",
+        "/home/geesara/catkin_workspace/src/Hagen-Planner/hagen_planner/path_finding/include/**",
+        "/home/geesara/catkin_workspace/src/Hagen-Planner/hagen_planner/path_finding_2d/include/**",
+        "/home/geesara/catkin_workspace/src/racecar_simulator/include/**",
+        "/home/geesara/catkin_workspace/src/realsense-ros/realsense2_camera/include/**",
+        "/home/geesara/catkin_workspace/src/Hagen-Planner/hagen_planner/rebound_opt/include/**",
+        "/home/geesara/catkin_workspace/src/reeds-shepp-paths-ros/include/**",
+        "/home/geesara/catkin_workspace/src/rl_try/parrot_ardrone/sjtu_drone/include/**",
+        "/home/geesara/catkin_workspace/src/Hagen-Planner/hagen_planner/spline_opt/include/**",
+        "/home/geesara/catkin_workspace/src/Hagen-Planner/hagen_planner/state_machine/include/**",
+        "/home/geesara/catkin_workspace/src/steering_functions/include/**",
+        "/home/geesara/catkin_workspace/src/Hagen-Planner/hagen_planner/traj_common/include/**",
+        "/home/geesara/catkin_workspace/src/movcap/vrpn_client_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
