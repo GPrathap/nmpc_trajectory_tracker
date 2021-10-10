@@ -19,7 +19,7 @@
 ### To run the PD regulator 
     roslaunch state_machine px4_reg.launch
     
-### To take off the drone at the initial 
+### To take off the drone 
     roslaunch state_machine take_off.launch 
 
 ## 1. How to define the reference trajectory? 
