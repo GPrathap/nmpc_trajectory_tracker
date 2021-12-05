@@ -60,4 +60,4 @@
     <img src="results/pd_regulator.png" width = "1000" />
   </p>
 
-## 4. If you want to know information: https://www.researchsquare.com/article/rs-963714/v2
+## 4. If you want to know more information: https://www.researchsquare.com/article/rs-963714/v2
