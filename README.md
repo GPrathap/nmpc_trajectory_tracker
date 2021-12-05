@@ -4,7 +4,7 @@
 
 ### To start the docker container first time 
     xhost + 
-    docker run -it --privileged -v /tmp/.X11-unix:/tmp/.X11-unix:ro -e DISPLAY=${DISPLAY} --name=drone_node To_be_updated /bin/bash
+    docker run -it --privileged -v /tmp/.X11-unix:/tmp/.X11-unix:ro -e DISPLAY=${DISPLAY} --name=drone_node  prathap/drone_node:v1 /bin/bash
 
 ### To start the docker container later times  
     docker start drone_node
