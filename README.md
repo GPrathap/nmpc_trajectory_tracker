@@ -1,4 +1,6 @@
-# NMPC Trajectory Tracker 
+# NMPC Trajectory Tracker
+
+## If you do not have docker on your computer, follow the instructions provided here :https://docs.docker.com/engine/install/ubuntu/
 
 ## Main steps for launching the simulator and related artifacts 
 
