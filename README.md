@@ -5,10 +5,10 @@
 ## Main steps for launching the simulator and related artifacts 
 
 ### To start the docker container first time 
-    xhost + 
     docker run -it --privileged -v /tmp/.X11-unix:/tmp/.X11-unix:ro -e DISPLAY=${DISPLAY} --name=drone_node  prathap/drone_node:v1 /bin/bash
-
+    
 ### To start the docker container later times  
+    xhost + 
     docker start drone_node
     docker exec -it drone_node bash 
 
